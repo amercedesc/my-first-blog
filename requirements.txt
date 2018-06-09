@@ -1,0 +1,5 @@
+certifi==2018.4.16
+Django==2.0.6
+docopt==0.6.2
+pythonanywhere==0.0.12
+pytz==2018.4
